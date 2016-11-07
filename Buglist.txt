@@ -1,0 +1,6 @@
+Buglist
+
+1.) isEmpty always says that the list is empty
+2.)  any method that is supposed to take an int argument can be passed a non int type. Does not throw an exception.
+3.)  addBack adds to the front
+4.)  neither remove methods remove nodes from the list.
